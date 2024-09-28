@@ -6,4 +6,4 @@ It was developed in Unity. For more information about Jelly Jump, check out the 
 
 Play Jelly Jump [here!](https://stefyaegel.github.io/JellyJumpGame/)
 
-Built for a personal project by Stef Yaegel.
+Built for a personal project by Stef Yaegel. Creator avatar made by [Avatars in Pixels.](https://www.avatarsinpixels.com/)
