@@ -6,3 +6,4 @@ It was developed in Unity. For more information about Jelly Jump, check out the 
 
 Play Jelly Jump [here!](https://stefyaegel.github.io/JellyJumpGame/)
 
+Built for a personal project by Stef Yaegel.
