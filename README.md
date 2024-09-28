@@ -9,4 +9,5 @@ Play Jelly Jump [here!](https://stefyaegel.github.io/JellyJumpGame/)
 Built for a personal project by Stef Yaegel.
 
 ![creator_pixel 1](https://github.com/user-attachments/assets/3023a8e7-c1f0-4f98-a201-fc37b9a2a152)
+Pixel avatar made [here](https://www.avatarsinpixels.com/).
 
